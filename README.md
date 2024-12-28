@@ -69,4 +69,3 @@ Contributions are welcome! If you'd like to suggest enhancements or report bugs,
 This project is licensed under the [MIT License](LICENSE).  
 ```
 
-This file includes the full content for your **README.md** that you can use for your GitHub project.
