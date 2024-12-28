@@ -52,11 +52,7 @@ An interactive application for analyzing and optimizing investment portfolios us
 3. Input your portfolio weights (ensure they sum up to 1).  
 4. Analyze the calculated portfolio metrics and visualizations.  
 5. Compare your portfolio's performance with a benchmark index.  
-
-## Screenshots  
-### Dashboard Overview  
-*Coming soon – Add screenshots here to showcase the tool’s interface and features!*  
-
+  
 ## Future Enhancements  
 - Support for additional risk metrics (e.g., Maximum Drawdown).  
 - Integration of real-time stock data for live analysis.  
