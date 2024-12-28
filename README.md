@@ -1,6 +1,4 @@
-Here’s the full **README.md** file in a single code block:
 
-```markdown
 # Portfolio Risk Management System  
 
 An interactive application for analyzing and optimizing investment portfolios using Python. This tool provides detailed insights into portfolio performance, risk, and sectoral allocation, empowering users to make informed investment decisions.  
