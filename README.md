@@ -1,3 +1,6 @@
+Here’s the full **README.md** file in a single code block:
+
+```markdown
 # Portfolio Risk Management System  
 
 An interactive application for analyzing and optimizing investment portfolios using Python. This tool provides detailed insights into portfolio performance, risk, and sectoral allocation, empowering users to make informed investment decisions.  
@@ -29,3 +32,41 @@ An interactive application for analyzing and optimizing investment portfolios us
    ```bash  
    git clone https://github.com/yourusername/portfolio-risk-management-system.git  
    cd portfolio-risk-management-system  
+   ```  
+
+2. Install the required dependencies:  
+   ```bash  
+   pip install -r requirements.txt  
+   ```  
+
+3. Run the application:  
+   ```bash  
+   streamlit run app.py  
+   ```  
+
+4. Open your browser at the link provided by Streamlit to interact with the application.  
+
+## Usage  
+1. Select the sectors you want to include in your portfolio.  
+2. Choose specific stocks from the available list for each selected sector.  
+3. Input your portfolio weights (ensure they sum up to 1).  
+4. Analyze the calculated portfolio metrics and visualizations.  
+5. Compare your portfolio's performance with a benchmark index.  
+
+## Screenshots  
+### Dashboard Overview  
+*Coming soon – Add screenshots here to showcase the tool’s interface and features!*  
+
+## Future Enhancements  
+- Support for additional risk metrics (e.g., Maximum Drawdown).  
+- Integration of real-time stock data for live analysis.  
+- Advanced optimization techniques for portfolio construction.  
+
+## Contributing  
+Contributions are welcome! If you'd like to suggest enhancements or report bugs, please open an issue or submit a pull request.  
+
+## License  
+This project is licensed under the [MIT License](LICENSE).  
+```
+
+This file includes the full content for your **README.md** that you can use for your GitHub project.
